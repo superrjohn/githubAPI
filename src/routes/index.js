@@ -7,7 +7,7 @@ import UserName from '../pages/UserName'
 import NoMatch from '../pages/NoMatch'
 import Repo from '../pages/Repo'
 
-import { BrowserRouter, useRoutes } from 'react-router-dom'
+import {  useRoutes } from 'react-router-dom'
 
 export default function GetRoutes() {
   let routes  = [
